@@ -1,0 +1,91 @@
+{
+    "needsErrorInfo": false,
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": 72,
+    "widgetName": "MapChart1",
+    "data": [
+        {
+            "id": "NA",
+            "value": ".82"
+        },
+        {
+            "id": "SA",
+            "value": "2.04"
+        },
+        {
+            "id": "AS",
+            "value": "1.78"
+        },
+        {
+            "id": "EU",
+            "value": ".40"
+        },
+        {
+            "id": "AF",
+            "value": "2.58"
+        },
+        {
+            "id": "AU",
+            "value": "1.30"
+        }
+    ],
+    "colorRange": [
+        {
+            "minValue": 0.5,
+            "code": "#FFD74D",
+            "maxValue": 1
+        },
+        {
+            "minValue": 1,
+            "code": "#FB8C00",
+            "maxValue": 2
+        },
+        {
+            "minValue": 2,
+            "code": "#E65100",
+            "maxValue": 3
+        }
+    ],
+    "isCanvas": false,
+    "displayName": "Map Chart",
+    "iconSVG": "https://release-appcdn.appsmith.com/static/media/icon.d4b5093e56d789ca6b4656cb925d4a7c.svg",
+    "searchTags": [
+        "graph",
+        "visuals",
+        "visualisations"
+    ],
+    "topRow": 40,
+    "bottomRow": 72,
+    "parentRowSpace": 10,
+    "type": "MAP_CHART_WIDGET",
+    "hideCard": false,
+    "mapTitle": "Global Population",
+    "mobileRightColumn": 24,
+    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "parentColumnSpace": 17.9375,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "boxShadow"},
+        {"key": "fontFamily"}
+    ],
+    "flexVerticalAlignment": "start",
+    "key": "8qvk0ki470",
+    "isDeprecated": false,
+    "rightColumn": 23,
+    "thumbnailSVG": "https://release-appcdn.appsmith.com/static/media/thumbnail.ce80e3c5d01fe182e07c4e48df5bb6d8.svg",
+    "widgetId": "90a4fgzayp",
+    "mapType": "WORLD",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Display"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 40,
+    "responsiveBehavior": "fill",
+    "showLabels": true,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 0
+}
